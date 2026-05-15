@@ -9,7 +9,7 @@ module.exports = {
 
   // 豆包 API Key
   doubao: {
-    apiKey: 'ark-eaa8ea04-c762-44ff-8a4d-d37ace9b7a45-9a4c4',
+    apiKey: 'Enter your Doubao API key here',
     model: 'doubao-seed-2-0-lite-260428'
   }
 };
